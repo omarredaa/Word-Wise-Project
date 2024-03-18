@@ -23,4 +23,4 @@ Note👋: i prefere you to open the terminal with Visual studio code with pressi
 
 
 ---------------------------------------------------------------------------------------------------
-👋 Now You Ready to use this project and better to see it's features in a vedio in the root path showing the features of the project
+👋 Now You Ready to use this project and better to see it's features in a vedio in the root path of the project folder showing the features of the project
