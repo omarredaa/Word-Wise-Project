@@ -19,6 +19,8 @@ Note👋: i prefere you to open the terminal with Visual studio code with pressi
 
 3-Write in cmd ---> npm run dev
 
-3-open a new terminal and run the server by writing ---> npm run server 
+4-open a new terminal and run the server by writing ---> npm run server 
+
+
 ---------------------------------------------------------------------------------------------------
 👋 Now You Ready to use this project and better to see it's features in a vedio in the root path showing the features of the project
