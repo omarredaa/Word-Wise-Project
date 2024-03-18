@@ -1,0 +1,52 @@
+{
+  "cities": [
+    {
+      "id": "654c",
+      "cityName": "Sowdari District",
+      "country": "Sudan (the)",
+      "emoji": "🇸🇩",
+      "date": "2024-03-04T08:17:30.483Z",
+      "notes": "eee",
+      "position": {
+        "lat": "15.021974026300454",
+        "lng": "29.707031250000004"
+      }
+    },
+    {
+      "id": "f161",
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-07T06:51:51.784Z",
+      "notes": "",
+      "position": {
+        "lat": "39.999610470842",
+        "lng": "-0.07724761962890625"
+      }
+    },
+    {
+      "id": "d2af",
+      "cityName": "Assiut",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-03-07T06:52:03.679Z",
+      "notes": "",
+      "position": {
+        "lat": "26.995513469748428",
+        "lng": "30.967712402343754"
+      }
+    },
+    {
+      "id": "3a07",
+      "cityName": "Markaz al Waḩat ad Dakhilah",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2024-03-07T06:52:14.969Z",
+      "notes": "",
+      "position": {
+        "lat": "27.090918424026473",
+        "lng": "30.717773437500004"
+      }
+    }
+  ]
+}
