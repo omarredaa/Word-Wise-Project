@@ -15,11 +15,13 @@ Note👋: i prefere you to open the terminal with Visual studio code with pressi
 -------------------------
 1-download Node js from this link ---> https://nodejs.org/en
 
-2-open the folder of the project in the terminal by (cd)
+2-write --> npm i
 
-3-Write in cmd ---> npm run dev
+3-open the folder of the project in the terminal by (cd)
 
-4-open a new terminal and run the server by writing ---> npm run server 
+4-Write in cmd ---> npm run dev
+
+5-open a new terminal and run the server by writing ---> npm run server 
 
 
 ---------------------------------------------------------------------------------------------------
